@@ -1,3 +1,3 @@
 # vue-empty
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-qjxwdb)
+Basic shell of vue 3 app.
